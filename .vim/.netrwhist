@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/etc/apt/sources.list.d'
-let g:netrw_dirhist_2='/etc/apt'
-let g:netrw_dirhist_3='/home/nateanderson/.vim/indent'
-let g:netrw_dirhist_4='/home/nateanderson/.config/awesome'
-let g:netrw_dirhist_5='/home/nateanderson/projects/propixl/server/gallery'
-let g:netrw_dirhist_6='/home/nateanderson/.config/awesome'
-let g:netrw_dirhist_7='/home/nateanderson/.config/awesome/icons'

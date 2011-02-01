@@ -91,4 +91,9 @@ snippet req
 snippet post
 	app.post('${1}', function(req, res, next){
 		${2}
-	}};
+	});
+
+snippet mw
+	function(req, res){
+		${1}
+	};
