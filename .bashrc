@@ -98,6 +98,6 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
 
-[[ $- == *i* ]]   &&   . ~/.config/git-prompt/git-prompt.sh
+# [[ $- == *i* ]]   &&   . ~/.config/git-prompt.sh
 
 export PATH=$HOME/local/bin:$PATH
